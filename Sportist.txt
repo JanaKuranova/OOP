@@ -1,0 +1,37 @@
+Name: Karina
+Surname: Iskra
+Year of birth: 2007
+Age: 17
+How long have been training: 5
+Country: Latvia
+City: Riga
+Club: RVS
+
+Name: Jana
+Surname: Kuranova
+Year of birth: 2006
+How long have been training: 10
+Country: Latvia
+City: Daugavpils
+Club: Daugavpils SS
+Work with: clubs
+
+Name: Kiril
+Surname: Plot
+Year of birth: 2002
+How long have been training: 8
+Country: Estonia
+City: Tallin
+Club: Swings
+Swimming distance: 200
+Best time in seconds - 360
+
+Name: Killian
+Surname: Falcone
+Year of birth: 2000
+How long have been training: 12
+Country: Italy
+City: Milan
+Club: Mafiball
+Wins: 54
+
